@@ -21,7 +21,7 @@ body{
 #header{
     width: 10   0;
     height: 100vh;
-    background-image: url(img/pexels-francesco-paggiaro-1374889.jpg);
+    background-image: url(./img/pexels-francesco-paggiaro-1374889.jpg);
     background-size: cover;
     background-position: center;
 }
